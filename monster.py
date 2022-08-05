@@ -1,5 +1,3 @@
-import json
-
 class Monster:
     def __init__(self,monstID,  monster, ac, hp, initiative):
         self.monstID = monstID
